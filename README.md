@@ -18,5 +18,10 @@
 
 - It also provides a language reference manual. The official statement of the syntax and semantics of C is the ANSI standard.
 
+# About Repository
+
+- Selective Solutions have been provided.
+
+- Feel free to contribute to repository.
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/Verkiya/Dennis-Ritchie-C-Solutions)
