@@ -1,10 +1,12 @@
-# Dennis-Ritchie-C-Solutions 
+# C Programming Language 2nd Edition by Brian W. Kernighan & Dennis M. Ritchie Solutions
 
 ## Book-Description
 
 ###### This second edition describes C as defined by the ANSI standard. This book is meant to help the reader learn how to program in C. The book assumes some familiarity with basic programming concepts like variables, assignment statements, loops and functions. A novice programmer should be able to read along and pick up the language.
 
+ 
  ### Features
+
 
 - All examples have been tested, which is in machine-readable form.
 
@@ -18,11 +20,8 @@
 
 - It also provides a language reference manual. The official statement of the syntax and semantics of C is the ANSI standard.
 
-# About Repository
 
-- Selective Solutions have been provided.
-
-- Feel free to contribute to repository.
+# Feel free to contribute to repository.
 
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/Verkiya/Dennis-Ritchie-C-Solutions)
